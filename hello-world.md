@@ -1,7 +1,6 @@
-
 # I <3 DevRel! :D
 
-Greetings from Billund Campus 
+Greetings from Billund Campus
 I love muffins!
 
 I love chocolate
