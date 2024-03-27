@@ -1,7 +1,8 @@
-
 # I <3 DevRel! :D
 
-Greetings from Billund Campus 
+
+
+Greetings from Billund Campus
 
 I love muffins!
 
@@ -9,6 +10,5 @@ I love chocolate
 
 But chocolate is unhealthy for you
 
-## What is your favorite type of dessert?
+I am having the worst kind of cold today
 
-Mine is icecream. Is that healthier than chocolate?
